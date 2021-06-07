@@ -1,2 +1,1 @@
-# hands-on-with-iot
-Workshop Materials for Students
+# Internet of Things
